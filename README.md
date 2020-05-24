@@ -1,12 +1,12 @@
 # Machine-Learning
 
-Predicting CO2 emissions using a dataset
+1. Predicting CO2 emissions using a dataset
+ 
+   Algorithm - Multiple Regression (CO2 Emmisions)
 
-Algorithm - Multiple Regression (CO2 Emmisions)
+2. Predicting Drug for a disease using a dataset
 
-Predicting Drug for a disease using a dataset
-
-Algorithm 2 - Decision Tress (Drug Predictions)
+   Algorithm 2 - Decision Tress (Drug Predictions)
 
 Platform - Python
 
